@@ -3,7 +3,13 @@
 ### SQL: Google Analytic Sample Dataset
 ### Power BI: Seoul Temperature Board
 ### Statistical Analysis: .....
-
+###
+###
+###
+###
+###
+###
+###
 
 
 
