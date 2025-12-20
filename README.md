@@ -13,7 +13,8 @@
 
 
 
-### Publication regarding statistical analysis, ML models, fine-tuning, XAI, etc.
+### Publication list
+#### - statistical analysis, ML models, fine-tuning, XAI, etc.
 ##### 1. 
 ##### 2. 
 ##### 3. 
