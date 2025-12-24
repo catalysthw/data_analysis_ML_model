@@ -2,6 +2,7 @@
 ### BorutaSHAP and Bayesian Optimization: data collected by our experiments (not publicly shared)
 ### SQL: Google Analytic Sample Dataset
 ### Power BI: Seoul Temperature Board
+### Power BI MCP: https://medium.com/@2hyowon/build-power-bi-dashboards-faster-with-mcp-a-simple-walkthrough-using-sample-data-1d9d8f3ad5b8
 ### Statistical Analysis: .....
 ###
 ###
