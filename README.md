@@ -16,7 +16,22 @@
 
 
 ### Publication list regarding ML models, fine-tuning, XAI, etc.
-##### 1. H. Lee., O. Lim., S. Samuel., "Adaptive Modeling of User Preferences for Self-Driving Behaviors Using Verbal Interaction and AI", Special Issue: Proceedings of the 69th HFES International Annual Meeting (2025)
-##### 2. H. Lee., O. Lim., A. Singh., S. Samuel., "Collision Risk Perception Models Using Physiological and Eye-Tracking Signals", IEEE Access (2025)
-##### 3. 
-
+##### (LLM fine-tuning) 1. H. Lee., O. Lim., S. Samuel., "Adaptive Modeling of User Preferences for Self-Driving Behaviors Using Verbal Interaction and AI", Special Issue: Proceedings of the 69th HFES International Annual Meeting (2025)
+##### (Built ML model / signal processing) 2. H. Lee., O. Lim., A. Singh., S. Samuel., "Collision Risk Perception Models Using Physiological and Eye-Tracking Signals", IEEE Access (2025)
+##### (Built ML model / signal processing) 3. H. Lee., N. Jiang., S. Samuel., "Detection of Error in Static and Dynamic Visual Stimulation via EEG and Eye-tracking Systems", Engineering Applications of Artificial Intelligence (2025)
+##### (Built transformer / ) 4.W. Zhu, S. Luo, H. Lee, A. Singh, and S. Samuel, "Lightweight and interpretable Transformer-Based Models for Predicting Driving Comfort in Autonomous Vehicles", IEEE Access (2025)
+##### 6. 
+##### 7.
+##### 8.
+##### 9.
+##### 10.
+##### 11. 
+##### 12.
+##### 13.
+##### 14.
+##### 15.
+##### 16.
+##### 17.
+##### 18.
+##### 19.
+##### 20. 
