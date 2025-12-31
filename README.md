@@ -35,7 +35,8 @@ A collection of notebooks, notes, and small projects related to data science, si
 
 
 ## Publications (by category)
-   - [publication list.pdf]
+   - [publication list.pdf](https://github.com/catalysthw/data_analysis_ML_model/blob/main/publicaction%20list.pdf)
+
 
 1. **Statistical analysis**  
 2. **ML models / fine-tuning / XAI**  
